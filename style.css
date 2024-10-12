@@ -1,0 +1,28 @@
+#label{
+    display:block;
+    text-align: center;
+    font-size: 50px;
+}
+.div{
+    display: block;
+    text-align: center;
+
+}
+body{
+    background-color:beige;
+}
+h1{
+    text-align: center;
+}
+.bck-img {
+    background-image: url('bgimg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Makes sure the div takes up the full height of the viewport */
+    width: 100%;
+}
+.date{
+    display: block;
+    text-align: center;
+}
